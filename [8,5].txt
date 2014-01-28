@@ -1,0 +1,40 @@
+[8 5]
+HSV2RGB
+performance =
+
+   7.2879e-05
+
+
+trainPerformance =
+
+   7.1420e-05
+
+
+valPerformance =
+
+   7.9391e-05
+
+
+testPerformance =
+
+   7.3180e-05
+   
+RGB2HSV
+performance =
+
+    0.0016
+
+
+trainPerformance =
+
+    0.0015
+
+
+valPerformance =
+
+    0.0020
+
+
+testPerformance =
+
+    0.0014

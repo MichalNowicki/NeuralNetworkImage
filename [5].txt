@@ -1,0 +1,40 @@
+HSV2RGB
+
+performance =
+
+    0.0055
+
+
+trainPerformance =
+
+    0.0055
+
+
+valPerformance =
+
+    0.0052
+
+
+testPerformance =
+
+    0.0057
+
+RGB2HSV
+performance =
+
+    0.0124
+
+
+trainPerformance =
+
+    0.0117
+
+
+valPerformance =
+
+    0.0125
+
+
+testPerformance =
+
+    0.0153
